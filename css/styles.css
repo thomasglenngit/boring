@@ -1,0 +1,7 @@
+.accent {
+  margin: inherit;
+  border: solid black;
+  float: inherit;
+  padding: 5px;
+  background-color: lawngreen;
+}
